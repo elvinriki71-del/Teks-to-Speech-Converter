@@ -1,0 +1,8 @@
+{
+  "name": "SuaraStudio",
+  "description": "Konversi teks Bahasa Indonesia dan Bahasa Inggris menjadi suara natural dengan pilihan karakter vokal, gaya bicara, dan unduhan audio WAV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
